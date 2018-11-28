@@ -1,0 +1,44 @@
+<html>
+<head>
+ 
+  <title>All About Hockey</title>
+</head>
+<body> 
+  <h1>All About Hockey</h1>
+  <h2>Description</h2> 
+  Hockey is a contact sport which means players are allowed to hit each other on the ice. The goal of hockey is to put the puck in the opposing teams net more times than they put the same puck in your net. In this sport a lot of gear is required so you can stay clear of injury when you are on the ice. There are many rules in hockey like you cannot not cross the opposing teams blue-line before the puck does. Another rule that you want to follow is the icing rule you are not allowed to shoot the puck down the ice past the other teams goaline without being past the red-line which is the line in the middle of the ice.
+  <h2>What is needed to play Hockey</h2> 
+  <ol> 
+    <li>Puck</li> 
+    <li>Hockey stick</li> 
+    <li> All the Hockey protective gear</li> 
+    <li>A sheet of ice</li>
+    <li>two Hockey nets</li> 
+    <li>Skates</li> 
+    <table style="width:50%">
+      <table border="5">
+  <tr>
+    <th>Item</th>
+    <th>Usage</th> 
+    <th>cost($)</th>
+  </tr>
+  <tr>
+    <td>Puck</td>
+    <td>To shoot into net</td> 
+    <td>.65</td>
+  </tr>
+  <tr>
+    <td>Stick</td>
+    <td>To shoot the puck</td> 
+    <td>200</td>
+    </tr>
+      <tr> 
+        <td>Skates</td>
+        <td>To skate with</td>
+        <td>300</td>
+      </tr>
+      
+</table>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/84/Hockey-Stick-and-Puck-Photographic-Print-C11950881.jpg"<br>
+  
+  </body>
